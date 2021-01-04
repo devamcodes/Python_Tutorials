@@ -1,0 +1,12 @@
+{
+"friends":[
+    {
+    "name":"devam",
+    "degree":"IT"
+    },
+    {
+    "name":"umang",
+    "degree":"IC"
+    }
+    ]
+}
